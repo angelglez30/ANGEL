@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Chamarra",
+    "firma": "SOLOGNAC",
+    "image": "https://contents.mediadecathlon.com/p46212/k$1ad233bbab4642503d99a8e8ad57345b/chamarra-con-forro-polar-cafe-para-adulto-solognac-100.jpg?format=auto&quality=40&f=520x520",
+    "price": 230,
+    "description": "Chamarra con forro polar café para adulto"
+  },
+  {
+    "id": 2,
+    "name": "Tenis",
+    "firma": "DOMYOS",
+    "image": "https://contents.mediadecathlon.com/p2290787/k$7618c3a4c2bb01358b479b78e93e7664/calzado-fitness-100-hombre.jpg?format=auto&quality=40&f=520x520",
+    "price": 30,
+    "description": "Calzado Fitness 100 Hombre"
+  },
+  {
+    "id": 3,
+    "name": "Botas",
+    "firma": "QUECHUA",
+    "image": "https://contents.mediadecathlon.com/p2578972/1cr1/k$361f9be51220a801312a209768cfd5d0/botas-de-senderismo-por-la-nieve-para-hombre-sh100-calidas-e-impermeables-negro.jpg?format=auto&f=768x0",
+    "price": 400,
+    "description": "Botas de nieve cálidas impermeables de senderismo"
+  },
+  {
+    "id": 4,
+    "name": "Calcetines",
+    "firma": "RADBUG",
+    "image": "https://contents.mediadecathlon.com/p2325685/k$08e47d1807b0cf66ad39f909592168df/escarpines-calcetines-neopreno-bodyboard-2-mm.jpg?format=auto&quality=40&f=520x520",
+    "price": 250,
+    "description": "Calcetines de neopreno Bodyboard 2mm"
+  },
+  {
+    "id": 5,
+    "name": "Playera",
+    "firma": "VAN RYSEL",
+    "image": "https://contents.mediadecathlon.com/p2152871/k$aea5c873ab81514ed5eed6321de3579c/jersey-ciclismo-carretera-rc100-hombre-azul-manga-corta-verano.jpg?format=auto&quality=40&f=520x520",
+    "price": 400,
+    "description": "Jersey Ciclismo Carretera Hombre"
+  },
+  {
+    "id": 6,
+    "name": "Plantillas",
+    "firma": "NEWFEEL",
+    "image": "https://contents.mediadecathlon.com/p2307993/k$ae912e7c20380099881c97c88a378db9/plantillas-w150-leather.jpg?format=auto&quality=40&f=520x520",
+    "price": 180,
+    "description": "Plantillas W150 Leather"
+  },
+  {
+    "id": 7,
+    "name": "Shorts",
+    "firma": "OLAIAN",
+    "image": "https://contents.mediadecathlon.com/p1306687/k$b5abe02469c674389c326cf3254717a2/boardshort-hendaia-nt-turquesa-corta.jpg?format=auto&quality=40&f=520x520",
+    "price": 100,
+    "description": "Boardshort Hendaia NT Turquesa Corta"
+  },
+  {
+    "id": 8,
+    "name": "Sandalias",
+    "firma": "OLAIAN",
+    "image": "https://contents.mediadecathlon.com/p1582281/k$8e369a554aa91fd2af7e654a35132045/sandalias-gris-oscuro-para-hombre-150.jpg?format=auto&quality=40&f=520x520",
+    "price": 340,
+    "description": "Sandalias gris oscuro para hombre"
+  },
+  {
+    "id": 9,
+    "name": "Agujetas",
+    "firma": "QUECHUA",
+    "image": "https://contents.mediadecathlon.com/p2584126/k$aa77c3213b9aaea19fbd90129dd444bc/agujetas-de-ajuste-rapido-para-calzado-de-travesia-trekking.jpg?format=auto&quality=40&f=520x520",
+    "price": 170,
+    "description": "Agujetas de ajuste rápido para cañzado de trekking"
+  },
+  {
+    "id": 10,
+    "name": "Boxer",
+    "firma": "DOMYOS",
+    "image": "https://contents.mediadecathlon.com/p2634661/k$fb9e09af6dc59862264949f7a508f672/boxer-deportivo-de-algodon-gris-con-rojo-para-hombre-2.jpg?format=auto&quality=40&f=520x520",
+    "price": 500,
+    "description": "Bóxer deportivo de algodón gris con rojo para hombre"
+  }
+]
